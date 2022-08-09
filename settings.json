@@ -1,6 +1,6 @@
 {
   "bot-account": {
-    "username": "bothizmeti6",
+    "username": "Xyor",
     "password": "",
     "type": "mojang"
   },
@@ -12,10 +12,10 @@
   },
 
   "position": {
-    "enabled": false,
-    "x": 0,
-    "y": 0,
-    "z": 0
+    "enabled": true,
+    "x": 3506,
+    "y": -23,
+    "z": 2404
   },
 
   "utils": {
